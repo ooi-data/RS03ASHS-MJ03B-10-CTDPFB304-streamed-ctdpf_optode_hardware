@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_hardware
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Optode Hardware Data<br>
+Instrument Group Code: CTD<br>
