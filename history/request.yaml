@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_hardware
+last_request: '2021-12-06T20:38:32.063157Z'
+response: https://raw.githubusercontent.com/ooi-data/RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_hardware/main/history/response.json
+status: discontinued
